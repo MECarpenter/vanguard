@@ -89,6 +89,13 @@ body {
     width: 90%;
     max-width: 1600px;
     margin: 0 auto;
+    padding: 1rem;
+  
+}
+
+.site-header {
+   
+    background: var(--black);
     padding: 1.5rem 0;
     box-shadow: 0px 10px 20px 5px rgba(0, 123, 255, 0.6); 
     position: relative;
